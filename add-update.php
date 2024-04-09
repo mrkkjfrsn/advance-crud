@@ -63,8 +63,11 @@
 
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-info">Save changes</button>
+                    <button type="submit" class="btn btn-info">Save changes</button>
                     <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                    <!-- 2 input fields for adding, updating, deleting, and viewing profile -->
+                    <input type="hidden" name= "action" value="adduser">
+                    <input type="hidden" name="userId" id="userId" value="">
                 </div>
             </form>
         </div>
