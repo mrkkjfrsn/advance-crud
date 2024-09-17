@@ -22,7 +22,7 @@
 
     <body>
 
-        <h1 class="bg-info text-light text-center py-3">Advance Crud</h1>
+        <h1 class="bg-info text-light text-center py-3">Advance Crud was changed to what the fuck</h1>
 
         <!-- Form Modal -->
         <?php include 'add-update.php' ?>
